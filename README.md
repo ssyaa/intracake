@@ -1,6 +1,6 @@
-# IntraCake — Indonesian Traditional Cake App
+# Intracake — Indonesian Traditional Cake App
 
-**IntraCake** (singkatan dari *Indonesian Traditional Cake*) adalah aplikasi mobile yang menyajikan berbagai resep kue tradisional khas Indonesia. Aplikasi ini bertujuan untuk melestarikan warisan kuliner nusantara dengan tampilan modern dan fitur interaktif.
+**Intracake** (singkatan dari *Indonesian Traditional Cake*) adalah aplikasi mobile yang menyajikan berbagai resep kue tradisional khas Indonesia. Aplikasi ini bertujuan untuk melestarikan warisan kuliner nusantara dengan tampilan modern dan fitur interaktif.
 
 ---
 
