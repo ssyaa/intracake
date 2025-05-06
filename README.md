@@ -1,17 +1,42 @@
-# intracake
+# 🍰 IntraCake — Indonesian Traditional Cake App
 
-A new Flutter project.
+**IntraCake** (singkatan dari *Indonesian Traditional Cake*) adalah aplikasi mobile yang menyajikan berbagai resep kue tradisional khas Indonesia. Aplikasi ini bertujuan untuk melestarikan warisan kuliner nusantara dengan tampilan modern dan fitur interaktif.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **Autentikasi Pengguna**
+  - Login
+  - Register
+  - Logout
+  - Ganti Password
+  - Ganti Username
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🍮 **Manajemen Resep**
+  - Tambah Resep Kue Tradisional
+  - Tambah ke Favorit
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# intracake
+- ☁️ **Media Storage**
+  - Upload dan penyimpanan gambar resep menggunakan **Cloudinary**
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+| Komponen          | Teknologi                         |
+|------------------|-----------------------------------|
+| Framework UI     | [Flutter](https://flutter.dev/)   |
+| IDE              | Android Studio                    |
+| Backend Storage  | Firebase Firestore                |
+| Autentikasi      | Firebase Authentication           |
+| Media Storage    | [Cloudinary](https://cloudinary.com/) |
+
+---
+
+## 🚀 Cara Menjalankan Proyek
+
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/username-kamu/intracake.git
+   cd intracake
