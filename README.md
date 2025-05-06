@@ -1,28 +1,28 @@
-# 🍰 IntraCake — Indonesian Traditional Cake App
+# IntraCake — Indonesian Traditional Cake App
 
 **IntraCake** (singkatan dari *Indonesian Traditional Cake*) adalah aplikasi mobile yang menyajikan berbagai resep kue tradisional khas Indonesia. Aplikasi ini bertujuan untuk melestarikan warisan kuliner nusantara dengan tampilan modern dan fitur interaktif.
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-- 🔐 **Autentikasi Pengguna**
+- **Autentikasi Pengguna**
   - Login
   - Register
   - Logout
   - Ganti Password
   - Ganti Username
 
-- 🍮 **Manajemen Resep**
+-  **Manajemen Resep**
   - Tambah Resep Kue Tradisional
   - Tambah ke Favorit
 
-- ☁️ **Media Storage**
+-  **Media Storage**
   - Upload dan penyimpanan gambar resep menggunakan **Cloudinary**
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## 🛠 Teknologi yang Digunakan
 
 | Komponen          | Teknologi                         |
 |------------------|-----------------------------------|
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+##  Cara Menjalankan Proyek
 
 1. Clone repository ini:
    ```bash
