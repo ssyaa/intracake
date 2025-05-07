@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Komponen          | Teknologi                         |
 |------------------|-----------------------------------|
