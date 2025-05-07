@@ -15,7 +15,6 @@
 
 -  **Manajemen Resep**
   - Tambah Resep Kue Tradisional
-  - Tambah ke Favorit
 
 -  **Media Storage**
   - Upload dan penyimpanan gambar resep menggunakan **Cloudinary**
